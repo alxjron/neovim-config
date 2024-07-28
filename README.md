@@ -3,9 +3,7 @@
 This is my common configuration setup for neovim to use as an IDE/text editor. 
 
 ### Plugins include:
-- Conquer Of Completion (COC)
-- Vim Airline
-- Nerd Tree
+- lsp zero + mason + cmp
 - Gruvbox
 - And Markdown Preview
 
